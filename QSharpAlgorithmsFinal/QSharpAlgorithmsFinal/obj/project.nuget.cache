@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "R8AbNvQt1MGsEODR3uaimuIj2uXfzXQ9lvI8E2IHQQZanXSuVHyJllOFV9CkWz11iM2pvHmSIJ3oigwF/RUuPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shirley\\Desktop\\SCHOOL\\ALGORITHMS-Q-\\QSharpAlgorithmsFinal\\QSharpAlgorithmsFinal\\QSharpAlgorithmsFinal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shirley\\.nuget\\packages\\microsoft.quantum.development.kit\\0.10.1912.501\\microsoft.quantum.development.kit.0.10.1912.501.nupkg.sha512",
+    "C:\\Users\\Shirley\\.nuget\\packages\\microsoft.quantum.simulators\\0.10.1912.501\\microsoft.quantum.simulators.0.10.1912.501.nupkg.sha512",
+    "C:\\Users\\Shirley\\.nuget\\packages\\microsoft.quantum.standard\\0.10.1912.501\\microsoft.quantum.standard.0.10.1912.501.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Shirley\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Shirley\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Shirley\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Shirley\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
